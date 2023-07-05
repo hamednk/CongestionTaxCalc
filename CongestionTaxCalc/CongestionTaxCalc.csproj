@@ -8,7 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\netcore\congestion-tax-calculator-net-core.csproj" />
+    <ProjectReference Include="..\Lib\congestion-tax-calculator-net-core.csproj" />
   </ItemGroup>
 
 </Project>
